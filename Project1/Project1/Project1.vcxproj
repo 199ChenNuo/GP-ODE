@@ -131,7 +131,6 @@
     <ClInclude Include="macro.h" />
     <ClInclude Include="node.h" />
     <ClInclude Include="updatePosition.h" />
-    <ClInclude Include="util.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
